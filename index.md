@@ -36,3 +36,6 @@ Above the blue line is the `-cp` interpretation, and below the blue line is with
 6. Commit and push:
 
 So far, I am having difficulties committing and pushing. As a result, the lab report may be incomplete. Changes will still be made after this version is turned in.
+
+![image](https://github.com/DirectJava/Lab-Report-4/assets/122843554/7b5fa1f7-2252-4c88-9b7e-6ea11501a475)
+
