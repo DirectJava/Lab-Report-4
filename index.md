@@ -35,4 +35,4 @@ Above the blue line is the `-cp` interpretation, and below the blue line is with
 
 6. Commit and push:
 
-In order to save the files...
+So far, I am having difficulties committing and pushing. As a result, the lab report may be incomplete. Changes will still be made after this version is turned in.
