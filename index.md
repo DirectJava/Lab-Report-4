@@ -41,7 +41,7 @@ Above the blue line is the `-cp` interpretation, and below the blue line is with
 
 VI. Commit and push:
 
-In order to commit to all changes, I used `git status` to see if I had saved it or not. Knowing that the `modified ListExamples.java` is in red text, I typed in `git add ListExamples.java` to let java know that I made these changes and want to keep them up to date. I then typed in `git status` to check `modified ListExamples.java`, only to find out that text is no longer in red font, but rather in green font. Once that's ready, I typed `git commit m "replaced index1 with index2" in order to submit the file with the message in regards to changes been made.
+In order to commit to all changes, I used `git status` to see if I had saved it or not. Knowing that the `modified: ListExamples.java` is in red text, I typed in `git add ListExamples.java` to let java know that I made these changes and want to keep them up to date. I then typed in `git status` to check `modified: ListExamples.java`, only to find out that text is no longer in red font, but rather in green font. Once that's ready, I typed `git commit m "replaced index1 with index2" in order to submit the file with the message in regards to changes been made.
 
 ![image](https://github.com/DirectJava/Lab-Report-4/assets/122843554/8b20b3f2-ee61-4486-bfc4-cc432040fd86)
 
